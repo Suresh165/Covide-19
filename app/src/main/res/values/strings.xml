@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Covid-19</string>
+
+    <string name="Company_Info">
+        Go Web Design is a full-service web design company founded in 2020. The company develops and improves professional websites for customers across a wide range of industries, including advertising, communications, fashion, finance, e-commerce, law, medical and health, construction, insurance, and real estate.
+    </string>
+
+    <string name="android_developer">
+        An Android developer is responsible for developing applications for devices powered by the Android operating system. Due to the fragmentation of this ecosystem, an Android developer must pay special attention to the applications compatibility with multiple versions of Android and device types
+    </string>
+    <string name="name_manish_saine">Name : Manish Saine</string>
+</resources>
